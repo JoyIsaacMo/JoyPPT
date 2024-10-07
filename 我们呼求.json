@@ -1,0 +1,91 @@
+{
+    "title": "我们呼求",
+    "background": "resources/earth.webm",
+    "slides": [
+        {
+            "id": "slide0",
+            "title": "标题",
+            "lyrics": "我们呼求"
+        },
+        {
+            "id": "slide1",
+            "title": "主歌 1",
+            "lyrics": "主我们同心在祢面前<br>以祷告寻求祢面"
+        },
+        {
+            "id": "slide1",
+            "title": "主歌 2",
+            "lyrics": "我们转离所有的恶行<br>定意单单跟随祢"
+        },
+        {
+            "id": "slide2",
+            "title": "主歌 3",
+            "lyrics": "主我们是属祢的子民<br>求赐下父神的心"
+        },
+        {
+            "id": "slide2",
+            "title": "主歌 4",
+            "lyrics": "我们要回转向祢父神<br>也要看见复兴"
+        },
+        {
+            "id": "slide3",
+            "title": "副歌 1",
+            "lyrics": "我们呼求祢阿爸父<br>设立祢宝座在这地"
+        },
+        {
+            "id": "slide3",
+            "title": "副歌 2",
+            "lyrics": "祢必睁眼看侧耳垂听<br>奉主名的呼求"
+        },
+        {
+            "id": "slide4",
+            "title": "副歌 3",
+            "lyrics": "万民都要来敬拜祢<br>荣耀高举祢的圣名"
+        },
+        {
+            "id": "slide4",
+            "title": "副歌 4",
+            "lyrics": "复兴这地全能的君王<br>我们欢迎祢"
+        },
+        {
+            "id": "slide1",
+            "title": "主歌 1",
+            "lyrics": "主我们同心在祢面前<br>以祷告寻求祢面"
+        },
+        {
+            "id": "slide1",
+            "title": "主歌 2",
+            "lyrics": "我们转离所有的恶行<br>定意单单跟随祢"
+        },
+        {
+            "id": "slide6",
+            "title": "主歌 5",
+            "lyrics": "主我们国家是属于祢<br>求祢来掌管全地"
+        },
+        {
+            "id": "slide6",
+            "title": "主歌 6",
+            "lyrics": "愿祢来怜悯医治这地<br>荣耀再次降临"
+        },
+        {
+            "id": "slide3",
+            "title": "副歌 1",
+            "lyrics": "我们呼求祢阿爸父<br>设立祢宝座在这地"
+        },
+        {
+            "id": "slide3",
+            "title": "副歌 2",
+            "lyrics": "祢必睁眼看侧耳垂听<br>奉主名的呼求"
+        },
+        {
+            "id": "slide4",
+            "title": "副歌 3",
+            "lyrics": "万民都要来敬拜祢<br>荣耀高举祢的圣名"
+        },
+        {
+            "id": "slide4",
+            "title": "副歌 4",
+            "lyrics": "复兴这地全能的君王<br>我们欢迎祢"
+        }
+    ]
+}

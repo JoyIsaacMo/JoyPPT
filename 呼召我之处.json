@@ -1,0 +1,41 @@
+{
+    "title": "在呼召我之处",
+    "background": "resources/silk3.webm",
+    "slides": [
+        {
+            "id": "slide0",
+            "title": "标题",
+            "lyrics": "在呼召我之处"
+        },
+        {
+            "id": "slide1",
+            "title": "主歌 1",
+            "lyrics": "主温柔的圣灵，让我全心感受<br>渗透我的生命，赐下平静和安息"
+        },
+        {
+            "id": "slide1",
+            "title": "主歌 2",
+            "lyrics": "你使我心得满足"
+        },
+        {
+            "id": "slide2",
+            "title": "主歌 3",
+            "lyrics": "主慈爱的真理，你荣光照向我<br>包围我的身体，赐下平静和安息"
+        },
+        {
+            "id": "slide2",
+            "title": "主歌 4",
+            "lyrics": "让我感受你的爱"
+        },
+        {
+            "id": "slide3",
+            "title": "副歌",
+            "lyrics": "在呼召我之处，我要献上敬拜<br>无论遭遇何事，依然扬声歌唱"
+        },
+        {
+            "id": "slide4",
+            "title": "副歌 2",
+            "lyrics": "在我行走时，成为我道路<br>活著时成为我生命<br>就在这地，献上敬拜"
+        }
+    ]
+}

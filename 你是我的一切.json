@@ -1,0 +1,46 @@
+{
+    "title": "你是我的一切",
+    "background": "resources/starlight2.webm",
+    "slides": [
+        {
+            "id": "slide3",
+            "title": "副歌",
+            "lyrics": "耶稣 神羔羊，配得大赞美<br>耶稣 神羔羊，配得大赞美"
+        },
+        {
+            "id": "slide0",
+            "title": "标题",
+            "lyrics": "祢是我的一切"
+        },
+        {
+            "id": "slide1",
+            "title": "主歌 1",
+            "lyrics": "祢是我依靠的力量<br>祢是我寻求的宝藏<br>祢是我的一切"
+        },
+        {
+            "id": "slide2",
+            "title": "主歌 2",
+            "lyrics": "祢好比贵重的珍宝<br>我怎能放弃祢不要<br>祢是我的一切"
+        },
+        {
+            "id": "slide3",
+            "title": "副歌",
+            "lyrics": "耶稣 神羔羊，配得大赞美<br>耶稣 神羔羊，配得大赞美"
+        },
+        {
+            "id": "slide4",
+            "title": "主歌 3",
+            "lyrics": "担当我罪债和羞辱<br>死里复活 我蒙救赎<br>祢是我的一切"
+        },
+        {
+            "id": "slide5",
+            "title": "主歌 4",
+            "lyrics": "当我跌倒祢扶持我<br>当我干渴祢充满我<br>祢是我的一切"
+        },
+        {
+            "id": "slide3",
+            "title": "副歌",
+            "lyrics": "耶稣 神羔羊，配得大赞美<br>耶稣 神羔羊，配得大赞美"
+        }
+    ]
+}

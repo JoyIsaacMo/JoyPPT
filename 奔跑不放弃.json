@@ -1,0 +1,41 @@
+{
+    "title": "奔跑不放弃",
+    "background": "resources/starlight2.webm",
+    "slides": [
+        {
+            "id": "slide0",
+            "title": "标题",
+            "lyrics": "奔跑不放弃"
+        },
+        {
+            "id": "slide1",
+            "title": "主歌 1",
+            "lyrics": "每个狂风暴雨里，祢同在在那里<br>每个难处低谷里，祢恩典在那里"
+        },
+        {
+            "id": "slide2",
+            "title": "主歌 2",
+            "lyrics": "每个伤心失望里，祢爱我爱到底<br>在祢爱的光中，我得着能力"
+        },
+        {
+            "id": "slide3",
+            "title": "副歌 1",
+            "lyrics": "我爱祢，用尽我全心全意全力<br>荣耀高举祢的名，我跟随不怀疑"
+        },
+        {
+            "id": "slide4",
+            "title": "副歌 2",
+            "lyrics": "我爱祢，用尽我全心全意全力<br>在这爱的路程里，我奔跑不放弃"
+        },
+        {
+            "id": "slide5",
+            "title": "桥 1",
+            "lyrics": "四面受敌，却不被困住<br>心里作难，却不至失望"
+        },
+        {
+            "id": "slide6",
+            "title": "桥 2",
+            "lyrics": "至暂至轻的苦楚要成就<br>极重无比永远的荣耀"
+        }
+    ]
+}

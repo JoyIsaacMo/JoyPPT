@@ -1,0 +1,31 @@
+{
+    "title": "我要爱慕你",
+    "background": "resources/circle3.webm",
+    "slides": [
+        {
+            "id": "slide0",
+            "title": "标题",
+            "lyrics": "我要爱慕你"
+        },
+        {
+            "id": "slide1",
+            "title": "主歌",
+            "lyrics": "耶稣，我要爱慕你<br>我要爱慕你，倾倒我的生命"
+        },
+        {
+            "id": "slide2",
+            "title": "主歌 2",
+            "lyrics": "你是，我唯一所求<br>让我心单单渴慕你"
+        },
+        {
+            "id": "slide3",
+            "title": "副歌",
+            "lyrics": "我心满溢，我心满溢<br>对你的爱和思念无止尽"
+        },
+        {
+            "id": "slide4",
+            "title": "副歌 2",
+            "lyrics": "让我走向，你的身旁，贴近你<br>主啊我渴慕寻求你"
+        }
+    ]
+}

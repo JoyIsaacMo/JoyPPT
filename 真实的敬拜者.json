@@ -1,0 +1,41 @@
+{
+    "title": "真实的敬拜者",
+    "background": "resources/dots.webm",
+    "slides": [
+        {
+            "id": "slide0",
+            "title": "标题",
+            "lyrics": "真实的敬拜者"
+        },
+        {
+            "id": "slide1",
+            "title": "主歌",
+            "lyrics": "为主来到这地方<br>人们献上敬拜赞美"
+        },
+        {
+            "id": "slide2",
+            "title": "主歌 2",
+            "lyrics": "主却找不到一个<br>真实的敬拜者而悲伤"
+        },
+        {
+            "id": "slide3",
+            "title": "主歌 3",
+            "lyrics": "因主所寻找的人<br>是一个真实敬拜者"
+        },
+        {
+            "id": "slide4",
+            "title": "主歌 4",
+            "lyrics": "我愿成为那一个<br>以心灵诚实敬拜的人"
+        },
+        {
+            "id": "slide5",
+            "title": "副歌",
+            "lyrics": "因主恩典，我站在这地方<br>因主同在，向他俯伏敬拜"
+        },
+        {
+            "id": "slide6",
+            "title": "副歌 2",
+            "lyrics": "世上的一切，都不能满足<br>唯有敬拜，我的主"
+        }
+    ]
+}

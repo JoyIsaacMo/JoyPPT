@@ -1,0 +1,41 @@
+{
+    "title": "这时代",
+    "background": "resources/line6.webm",
+    "slides": [
+        {
+            "id": "slide1",
+            "title": "主歌 1",
+            "lyrics": "看哪犹大狮子已得胜<br>众圣徒预备朝见祂"
+        },
+        {
+            "id": "slide2",
+            "title": "主歌 2",
+            "lyrics": "少年人看异象  老年人要作异梦<br>因为神的复兴将来到"
+        },
+        {
+            "id": "slide3",
+            "title": "主歌 3",
+            "lyrics": "听到锡安的号角响起<br>万国万民都要颤抖"
+        },
+        {
+            "id": "slide4",
+            "title": "主歌 4",
+            "lyrics": "耶和华日子将到<br>光明将除去黑暗 "
+        },
+        {
+            "id": "slide5",
+            "title": "主歌 5",
+            "lyrics": "因为神的复兴将来到 <br>我们要看到神的荣耀 "
+        },
+        {
+            "id": "slide6",
+            "title": "副歌 1",
+            "lyrics": "这世代我们用敬拜争战<br>我们用祷告改变世界"
+        },
+        {
+            "id": "slide7",
+            "title": "副歌 2",
+            "lyrics": "这世代圣灵要更新浇灌我们<br>这世代是耶稣世代"
+        }
+    ]
+}

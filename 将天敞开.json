@@ -1,0 +1,41 @@
+{
+    "title": "将天敞开",
+    "background": "resources/line11.webm",
+    "slides": [
+        {
+            "id": "slide0",
+            "title": "标题",
+            "lyrics": "将天敞开"
+        },
+        {
+            "id": "slide1",
+            "title": "主歌",
+            "lyrics": "将天敞开，你的荣耀降下来<br>将天敞开，你的同在降下来"
+        },
+        {
+            "id": "slide2",
+            "title": "主歌 2",
+            "lyrics": "将天敞开，你的荣耀降下来<br>万国赞叹你，你是荣耀君王"
+        },
+        {
+            "id": "slide3",
+            "title": "副歌",
+            "lyrics": "天上地下，合一敬拜<br>欢呼耶稣基督，圣洁羔羊<br>荣耀归于你"
+        },
+        {
+            "id": "slide4",
+            "title": "副歌 2",
+            "lyrics": "天上地下，在永恒里敬拜<br>哈利路亚，哈利路亚"
+        },
+        {
+            "id": "slide5",
+            "title": "桥",
+            "lyrics": "神就在这里，我们欢迎你<br>让一切焦点，转向你"
+        },
+        {
+            "id": "slide6",
+            "title": "桥 2",
+            "lyrics": "神就在这里，我们欢迎你<br>宝座前敬拜不停息"
+        }
+    ]
+}

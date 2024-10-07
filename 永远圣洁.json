@@ -1,0 +1,101 @@
+{
+    "title": "永远圣洁",
+    "background": "resources/starlight.webm",
+    "slides": [
+        {
+            "id": "slide1",
+            "title": "主歌",
+            "lyrics": "世世代代俯伏，全心全意敬拜<br>齐声宣扬称颂，神羔羊"
+        },
+        {
+            "id": "slide2",
+            "title": "主歌 2",
+            "lyrics": "众圣徒众儿女，万族万民万邦<br>齐声宣扬称颂，神羔羊"
+        },
+        {
+            "id": "slide3",
+            "title": "PC",
+            "lyrics": "你名高过穹苍，你名何等伟大<br>你名，超乎万民之上"
+        },
+        {
+            "id": "slide4",
+            "title": "PC 2",
+            "lyrics": "所有宝座冠冕，所有能力权柄<br>你名，超乎万民之上"
+        },
+        {
+            "id": "slide5",
+            "title": "副歌",
+            "lyrics": "众天使呼喊，圣洁<br>万口要敬拜，圣洁"
+        },
+        {
+            "id": "slide6",
+            "title": "副歌 2",
+            "lyrics": "我们高举你，圣洁<br>圣洁到永远"
+        },
+        {
+            "id": "slide7",
+            "title": "主歌 3",
+            "lyrics": "我已被你赦免，我已被你赎回<br>齐声宣扬称颂，神羔羊"
+        },
+        {
+            "id": "slide8",
+            "title": "主歌 4",
+            "lyrics": "我已得着自由，奉靠耶稣之名<br>齐声宣扬称颂，神羔羊"
+        },
+        {
+            "id": "slide9",
+            "title": "PC 3",
+            "lyrics": "永远宣扬称颂，敬拜你，阿们"
+        },
+        {
+            "id": "slide10",
+            "title": "副歌",
+            "lyrics": "众天使呼喊，圣洁<br>万口要敬拜，圣洁"
+        },
+        {
+            "id": "slide11",
+            "title": "副歌 2",
+            "lyrics": "我们高举你，圣洁<br>圣洁到永远"
+        },
+        {
+            "id": "slide12",
+            "title": "副歌 3",
+            "lyrics": "神儿女歌唱，圣洁<br>全地的君王，圣洁"
+        },
+        {
+            "id": "slide13",
+            "title": "副歌 4",
+            "lyrics": "你永不改变，圣洁<br>圣洁到永远"
+        },
+        {
+            "id": "slide14",
+            "title": "PC",
+            "lyrics": "你名高过穹苍，你名何等伟大<br>你名，超乎万民之上"
+        },
+        {
+            "id": "slide15",
+            "title": "PC 2",
+            "lyrics": "所有宝座冠冕，所有能力权柄<br>你名，超乎万民之上"
+        },
+        {
+            "id": "slide16",
+            "title": "副歌",
+            "lyrics": "众天使呼喊，圣洁<br>万口要敬拜，圣洁"
+        },
+        {
+            "id": "slide17",
+            "title": "副歌 2",
+            "lyrics": "我们高举你，圣洁<br>圣洁到永远"
+        },
+        {
+            "id": "slide18",
+            "title": "副歌 3",
+            "lyrics": "神儿女歌唱，圣洁<br>全地的君王，圣洁"
+        },
+        {
+            "id": "slide19",
+            "title": "副歌 4",
+            "lyrics": "你永不改变，圣洁<br>圣洁到永远"
+        }
+    ]
+}

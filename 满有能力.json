@@ -1,0 +1,36 @@
+{
+    "title": "满有能力",
+    "background": "resources/dimond.webm",
+    "slides": [
+        {
+            "id": "slide0",
+            "title": "标题",
+            "lyrics": "满有能力"
+        },
+        {
+            "id": "slide1",
+            "title": "主歌",
+            "lyrics": "我的盼望就在耶穌基督裡<br>在你裡面滿有平安"
+        },
+        {
+            "id": "slide2",
+            "title": "主歌 2",
+            "lyrics": "生命泉源就在耶穌基督裡<br>有主在我裡面活著"
+        },
+        {
+            "id": "slide3",
+            "title": "副歌",
+            "lyrics": "我宣告在我裡面的<br>比世上一切更有能力<br>我不屬這世界，我高舉耶穌的名"
+        },
+        {
+            "id": "slide4",
+            "title": "副歌 2",
+            "lyrics": "我宣告在我裡面有<br>活水湧流滿有能力<br>有耶穌在我裡面活著，我勇敢站立"
+        },
+        {
+            "id": "slide5",
+            "title": "桥",
+            "lyrics": "有主在我裡面，沒有懼怕能戰勝仇敵<br>有主在我裡面，沒有懼怕還得勝有餘"
+        }
+    ]
+}

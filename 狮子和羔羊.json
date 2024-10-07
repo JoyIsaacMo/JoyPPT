@@ -1,0 +1,71 @@
+{
+    "title": "狮子和羔羊",
+    "background": "resources/dimond.webm",
+    "slides": [
+        {
+            "id": "slide0",
+            "title": "标题",
+            "lyrics": "狮子和羔羊"
+        },
+        {
+            "id": "slide1",
+            "title": "主歌 1",
+            "lyrics": "祂乘云降临<br>列国众王都屈膝"
+        },
+        {
+            "id": "slide1",
+            "title": "主歌 2",
+            "lyrics": "捆锁全断开，破碎者宣扬赞美<br>有谁能阻挡全能真神"
+        },
+        {
+            "id": "slide2",
+            "title": "副歌 1",
+            "lyrics": "犹大的狮子，大能的战士<br>为我们争战，摧毁黑暗权势<br>万膝都跪拜祂座前"
+        },
+        {
+            "id": "slide3",
+            "title": "副歌 2",
+            "lyrics": "被杀的羔羊，羔羊的宝血<br>为著世上的罪，祂断开锁链"
+        },
+        {
+            "id": "slide4",
+            "title": "副歌 3",
+            "lyrics": "万民都屈膝，在狮子羔羊的面前<br>万膝都跪拜祂座前"
+        },
+        {
+            "id": "slide5",
+            "title": "主歌 3",
+            "lyrics": "打开众城门<br>为大君王预备道路"
+        },
+        {
+            "id": "slide5",
+            "title": "主歌 4",
+            "lyrics": "祂来拯救我们，释放被掳者得自由<br>有谁能阻挡全能真神"
+        },
+        {
+            "id": "slide2",
+            "title": "副歌 1",
+            "lyrics": "犹大的狮子，大能的战士<br>为我们争战，摧毁黑暗权势<br>万膝都跪拜祂座前"
+        },
+        {
+            "id": "slide3",
+            "title": "副歌 2",
+            "lyrics": "被杀的羔羊，羔羊的宝血<br>为著世上的罪，祂断开锁链"
+        },
+        {
+            "id": "slide4",
+            "title": "副歌 3",
+            "lyrics": "万民都屈膝，在狮子羔羊的面前<br>万膝都跪拜祂座前"
+        },
+        {
+            "id": "slide6",
+            "title": "桥",
+            "lyrics": "谁能阻挡全能真神<br>谁能阻挡全能真神"
+        },
+        {
+            "id": "slide6",
+            "title": "桥 2",
+            "lyrics": "谁能阻挡全能真神<br>谁能阻挡神"
+        }
+    ]
+}

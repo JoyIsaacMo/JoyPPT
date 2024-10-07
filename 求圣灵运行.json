@@ -1,0 +1,41 @@
+{
+    "title": "求圣灵运行",
+    "background": "resources/moving.webm",
+    "slides": [
+        {
+            "id": "slide",
+            "title": "标题",
+            "lyrics": "求圣灵运行"
+        },
+        {
+            "id": "slide1",
+            "title": "主歌",
+            "lyrics": "在这时刻，求圣灵运行<br>来充满我们的心"
+        },
+        {
+            "id": "slide2",
+            "title": "主歌 2",
+            "lyrics": "改变我们，让我们更像你<br>让我们把自己完全献给你"
+        },
+        {
+            "id": "slide3",
+            "title": "副歌",
+            "lyrics": "噢，主圣灵！噢，主圣灵！<br>充满在这里"
+        },
+        {
+            "id": "slide4",
+            "title": "副歌 2",
+            "lyrics": "叫我们的灵能在你光中<br>再一次兴起"
+        },
+        {
+            "id": "slide5",
+            "title": "副歌 3",
+            "lyrics": "噢，主圣灵！噢，主圣灵！<br>充满在这里"
+        },
+        {
+            "id": "slide6",
+            "title": "副歌 4",
+            "lyrics": "来充满我们的心<br>让我们明白你所有旨意"
+        }
+    ]
+}

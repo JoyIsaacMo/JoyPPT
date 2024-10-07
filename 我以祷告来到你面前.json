@@ -1,0 +1,51 @@
+{
+    "title": "我以祷告来到你面前",
+    "background": "resources/diamond2.webm",
+    "slides": [
+        {
+            "id": "slide0",
+            "title": "标题",
+            "lyrics": "我以祷告来到你面前"
+        },
+        {
+            "id": "slide1",
+            "title": "主歌 1",
+            "lyrics": "我以祷告来到你面前<br>我要寻求你"
+        },
+        {
+            "id": "slide2",
+            "title": "主歌 2",
+            "lyrics": "我要站在破口之中<br>在那里我寻求你"
+        },
+        {
+            "id": "slide5",
+            "title": "副歌 1",
+            "lyrics": "每一次我祷告，我摇动你的手<br>祷告做的事，我的手不能做"
+        },
+        {
+            "id": "slide6",
+            "title": "副歌 2",
+            "lyrics": "每一次我祷告，大山被挪移<br>道路被铺平，使列国归向你"
+        },
+        {
+            "id": "slide3",
+            "title": "主歌 3",
+            "lyrics": "主我是软弱及无助<br>你却是我的力量"
+        },
+        {
+            "id": "slide4",
+            "title": "主歌 4",
+            "lyrics": "以你亲切的手引导我<br>那就是我的得胜"
+        },
+        {
+            "id": "slide5",
+            "title": "副歌 1",
+            "lyrics": "每一次我祷告，我摇动你的手<br>祷告做的事，我的手不能做"
+        },
+        {
+            "id": "slide6",
+            "title": "副歌 2",
+            "lyrics": "每一次我祷告，大山被挪移<br>道路被铺平，使列国归向你"
+        }
+    ]
+}

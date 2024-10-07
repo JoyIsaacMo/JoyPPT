@@ -1,0 +1,26 @@
+{
+    "title": "赐福于你",
+    "background": "resources/gold1.webm",
+    "slides": [
+        {
+            "id": "slide1",
+            "title": "主歌",
+            "lyrics": "愿主的恩惠慈爱与你同在<br>愿主的灵 时时围绕<br>恩典降下 赐福与你"
+        },
+        {
+            "id": "slide2",
+            "title": "主歌 2",
+            "lyrics": "平安喜乐天天充满你<br>愿主的恩惠慈爱 与你同在<br>愿主的灵 时时围绕"
+        },
+        {
+            "id": "slide3",
+            "title": "副歌",
+            "lyrics": "恩典降下 赐福与你<br>平安喜乐天 天充满你"
+        },
+        {
+            "id": "slide4",
+            "title": "副歌 2",
+            "lyrics": "赐福与你 赐福与你<br>平安喜乐天天充满你"
+        }
+    ]
+}

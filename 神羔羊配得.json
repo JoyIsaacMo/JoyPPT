@@ -1,0 +1,46 @@
+{
+    "title": "神羔羊配得",
+    "background": "resources/cross1.webm",
+    "slides": [
+        {
+            "id": "slide0",
+            "title": "标题",
+            "lyrics": "神羔羊配得"
+        },
+        {
+            "id": "slide1",
+            "title": "主歌",
+            "lyrics": "感谢你的十字架<br>感谢你付上代价"
+        },
+        {
+            "id": "slide2",
+            "title": "主歌 2",
+            "lyrics": "担当我罪和羞愧，使我完全<br>赐下奇妙恩典"
+        },
+        {
+            "id": "slide3",
+            "title": "主歌 3",
+            "lyrics": "感谢你无比大爱<br>感谢你钉痕双手"
+        },
+        {
+            "id": "slide4",
+            "title": "主歌 4",
+            "lyrics": "宝血洗净我污秽，使我了解<br>你完全包容赦免"
+        },
+        {
+            "id": "slide5",
+            "title": "副歌",
+            "lyrics": "神羔羊配得，坐在宝座上<br>头戴着尊贵冠冕，你做王到永远"
+        },
+        {
+            "id": "slide6",
+            "title": "副歌 2",
+            "lyrics": "来尊崇赞美，耶稣神儿子<br>从天降下被钉十架，神羔羊配得"
+        },
+        {
+            "id": "slide0",
+            "title": "桥",
+            "lyrics": "神羔羊配得，神羔羊配得"
+        }
+    ]
+}

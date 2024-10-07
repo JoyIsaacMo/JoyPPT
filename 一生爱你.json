@@ -1,0 +1,16 @@
+{
+    "title": "一生爱你",
+    "background": "resources/worship2.webm",
+    "slides": [
+        {
+            "id": "slide1",
+            "title": "副歌",
+            "lyrics": "一生爱你，一生敬拜你<br>一生爱你，一生荣耀你"
+        },
+        {
+            "id": "slide2",
+            "title": "副歌 2",
+            "lyrics": "一生奉献，一生不回头<br>一生爱你，跟随你"
+        }
+    ]
+}

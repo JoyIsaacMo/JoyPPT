@@ -1,0 +1,41 @@
+{
+    "title": "我们爱戴的王",
+    "background": "resources/starlight.webm",
+    "slides": [
+        {
+            "id": "slide0",
+            "title": "标题",
+            "lyrics": "我们爱戴的王"
+        },
+        {
+            "id": "slide1",
+            "title": "主歌",
+            "lyrics": "众人所望，明亮晨星<br>披戴着一切荣美辉煌"
+        },
+        {
+            "id": "slide2",
+            "title": "主歌 2",
+            "lyrics": "有温柔有怜悯，天地所有权柄<br>属于我们爱戴的王"
+        },
+        {
+            "id": "slide3",
+            "title": "副歌",
+            "lyrics": "高举至高的名<br>耶稣基督，荣美君王"
+        },
+        {
+            "id": "slide4",
+            "title": "副歌 2",
+            "lyrics": "带着世上权柄<br>将来我们要与祂做王"
+        },
+        {
+            "id": "slide5",
+            "title": "副歌 3",
+            "lyrics": "高唱哈利路亚<br>耶稣基督是弥赛亚"
+        },
+        {
+            "id": "slide6",
+            "title": "副歌 4",
+            "lyrics": "祂是圣洁唯一，荣光显明<br>我们爱戴的王"
+        }
+    ]
+}

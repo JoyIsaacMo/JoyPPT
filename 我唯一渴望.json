@@ -1,0 +1,41 @@
+{
+    "title": "我唯一渴望",
+    "background": "resources/circle3.webm",
+    "slides": [
+        {
+            "id": "slide1",
+            "title": "主歌",
+            "lyrics": "在光中你走向我<br>点亮我里面的黑暗光景"
+        },
+        {
+            "id": "slide2",
+            "title": "主歌 2",
+            "lyrics": "洗去我的软弱<br>你洁净我的生命<br>拥抱我，如同至宝在怀里"
+        },
+        {
+            "id": "slide3",
+            "title": "主歌 3",
+            "lyrics": "你走入我的生命<br>遮盖我心中的所有恐惧"
+        },
+        {
+            "id": "slide4",
+            "title": "主歌 4",
+            "lyrics": "你是我的一切<br>主我单单依靠你<br>我要抬起头定睛来仰望你"
+        },
+        {
+            "id": "slide5",
+            "title": "副歌",
+            "lyrics": "让我们单单敬拜你<br>让我们在主里欢庆"
+        },
+        {
+            "id": "slide5",
+            "title": "副歌",
+            "lyrics": "用尽我全心全意<br>更多更深地认识你"
+        },
+        {
+            "id": "slide6",
+            "title": "副歌 2",
+            "lyrics": "让我们单单来爱你<br>超过一切地渴慕你<br>你是我唯一渴望，耶稣"
+        }
+    ]
+}

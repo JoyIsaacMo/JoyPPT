@@ -1,0 +1,31 @@
+{
+    "title": "我们一起祷告吧",
+    "background": "resources/flow.webm",
+    "slides": [
+        {
+            "id": "slide0",
+            "title": "标题",
+            "lyrics": "我们一起祷告吧"
+        },
+        {
+            "id": "slide1",
+            "title": "主歌 1",
+            "lyrics": "我们一起祷告吧<br>来到主跟前，屈膝跪拜"
+        },
+        {
+            "id": "slide2",
+            "title": "主歌 2",
+            "lyrics": "祂是怜悯的主<br>我们向着天，举起双手"
+        },
+        {
+            "id": "slide3",
+            "title": "副歌 1",
+            "lyrics": "求祢打开天上门，将丰沛的恩雨<br>滋润充满整个大地"
+        },
+        {
+            "id": "slide4",
+            "title": "副歌 2",
+            "lyrics": "终于看到主降临，公义的雨丝<br>浇灌在我们的身上"
+        }
+    ]
+}

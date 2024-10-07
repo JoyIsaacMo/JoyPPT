@@ -1,0 +1,26 @@
+{
+    "title": "真心祝福你",
+    "background": "resources/dimond.webm",
+    "slides": [
+        {
+            "id": "slide0",
+            "title": "标题",
+            "lyrics": "真心祝福你"
+        },
+        {
+            "id": "slide1",
+            "title": "主歌",
+            "lyrics": "真心祝福你，以我们主的圣名<br>真心祝福你，以我们主的大爱"
+        },
+        {
+            "id": "slide2",
+            "title": "主歌 2",
+            "lyrics": "在这里聚集，所有主的圣洁儿女<br>愿主的喜乐，主的大爱，充满这里<br>充满这里，我们之中"
+        },
+        {
+            "id": "slide3",
+            "title": "副歌",
+            "lyrics": "God Bless You, God Bless You<br>真心祝福你，以我们主的大爱"
+        }
+    ]
+}

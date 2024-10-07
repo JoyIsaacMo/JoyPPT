@@ -1,0 +1,91 @@
+{
+    "title": "这是奇妙恩典",
+    "background": "resources/circle4.webm",
+    "slides": [
+        {
+            "id": "slide0",
+            "title": "标题",
+            "lyrics": "这是奇妙恩典"
+        },
+        {
+            "id": "slide1",
+            "title": "主歌",
+            "lyrics": "谁破除黑暗，罪恶的权势<br>谁爱的大能，远胜过一切"
+        },
+        {
+            "id": "slide2",
+            "title": "PC ",
+            "lyrics": "荣耀的君王，万王之王耶稣"
+        },
+        {
+            "id": "slide5",
+            "title": "主歌 2",
+            "lyrics": "谁以雷声来，震动这世界<br>谁令人赞叹，他奇妙作为"
+        },
+        {
+            "id": "slide6",
+            "title": "PC ",
+            "lyrics": "荣耀的君王，万王之王耶稣"
+        },
+        {
+            "id": "slide7",
+            "title": "副歌",
+            "lyrics": "这是奇妙恩典，你不失败的爱<br>你竟会代替我，为我承担十架"
+        },
+        {
+            "id": "slide8",
+            "title": "副歌 2",
+            "lyrics": "舍下你生命，释放我得自由<br>耶稣我宣扬，你所做的一切"
+        },
+        {
+            "id": "slide9",
+            "title": "主歌 3",
+            "lyrics": "谁把我混乱，带回到秩序<br>谁使这孤儿，成为神儿女"
+        },
+        {
+            "id": "slide10",
+            "title": "PC ",
+            "lyrics": "荣耀的君王，万王之王耶稣"
+        },
+        {
+            "id": "slide13",
+            "title": "主歌 4",
+            "lyrics": "以真理公义，你掌管列国<br>在一切事上，如明光照耀"
+        },
+        {
+            "id": "slide14",
+            "title": "PC ",
+            "lyrics": "荣耀的君王，万王之王耶稣"
+        },
+        {
+            "id": "slide15",
+            "title": "副歌",
+            "lyrics": "这是奇妙恩典，你不失败的爱<br>你竟会代替我，为我承担十架"
+        },
+        {
+            "id": "slide16",
+            "title": "副歌 2",
+            "lyrics": "舍下你生命，释放我得自由<br>耶稣我宣扬，你所做的一切"
+        },
+        {
+            "id": "slide17",
+            "title": "桥",
+            "lyrics": "被杀的羔羊，你配得<br>胜过坟墓的君王，你配得"
+        },
+        {
+            "id": "slide18",
+            "title": "桥 2",
+            "lyrics": "被杀的羔羊，你配得<br>配得，配得，你配得"
+        },
+        {
+            "id": "slide7",
+            "title": "副歌",
+            "lyrics": "这是奇妙恩典，你不失败的爱<br>你竟会代替我，为我承担十架"
+        },
+        {
+            "id": "slide8",
+            "title": "副歌 2",
+            "lyrics": "舍下你生命，释放我得自由<br>耶稣我宣扬，你所做的一切"
+        }
+    ]
+}

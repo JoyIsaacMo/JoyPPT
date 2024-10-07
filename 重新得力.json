@@ -1,0 +1,26 @@
+{
+    "title": "重新得力",
+    "background": "resources/shape4.webm",
+    "slides": [
+        {
+            "id": "slide1",
+            "title": "主歌",
+            "lyrics": "我们等候主必重新得力<br>必重新得力，我们必重新得力"
+        },
+        {
+            "id": "slide2",
+            "title": "TB",
+            "lyrics": "哦 主 掌 权 到 永 远<br>你 是 救 恩 和 盼 望"
+        },
+        {
+            "id": "slide3",
+            "title": "副歌",
+            "lyrics": "主你是永恒的上帝<br>我永恒的上帝<br>你不困伐也永不疲惫"
+        },
+        {
+            "id": "slide4",
+            "title": "副歌 2",
+            "lyrics": "疲乏时你赐我力量<br>软弱赐我刚强<br>你使我如鹰展翅上腾"
+        }
+    ]
+}

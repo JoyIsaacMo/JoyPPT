@@ -1,0 +1,46 @@
+{
+    "title": "我的主你是配得",
+    "background": "resources/starlight.webm",
+    "slides": [
+        {
+            "id": "slide0",
+            "title": "标题",
+            "lyrics": "我的主你是配得"
+        },
+        {
+            "id": "slide1",
+            "title": "正歌",
+            "lyrics": "众圣徒与天使<br>俯伏宝座前"
+        },
+        {
+            "id": "slide2",
+            "title": "正歌 2",
+            "lyrics": "众长老谦卑，卸下冠冕在<br>神羔羊前敬拜"
+        },
+        {
+            "id": "slide3",
+            "title": "副歌",
+            "lyrics": "我的主你是配得<br>我的主你是配得"
+        },
+        {
+            "id": "slide4",
+            "title": "副歌 2",
+            "lyrics": "万有都本与你，万有也归于你<br>你配得所有荣耀"
+        },
+        {
+            "id": "slide5",
+            "title": "正歌",
+            "lyrics": "众圣徒与天使<br>俯伏宝座前"
+        },
+        {
+            "id": "slide6",
+            "title": "正歌 2",
+            "lyrics": "众长老谦卑，卸下冠冕在<br>神羔羊前敬拜"
+        },
+        {
+            "id": "slide7",
+            "title": "桥",
+            "lyrics": "从白天到黑夜，祷告不止息<br>从白天到黑夜，祷告不止息"
+        }
+    ]
+}

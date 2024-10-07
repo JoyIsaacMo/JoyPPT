@@ -1,0 +1,31 @@
+{
+    "title": "圣灵请你来",
+    "background": "resources/gold1.webm",
+    "slides": [
+        {
+            "id": "slide0",
+            "title": "标题",
+            "lyrics": "圣灵请你来"
+        },
+        {
+            "id": "slide1",
+            "title": "主歌",
+            "lyrics": "圣灵请你来，充满在这地<br>我渴望更认识你，更深的经历"
+        },
+        {
+            "id": "slide2",
+            "title": "主歌 2",
+            "lyrics": "圣灵请你来，改变我心意<br>开我眼睛开我耳，让我更多认识你"
+        },
+        {
+            "id": "slide3",
+            "title": "副歌",
+            "lyrics": "我呼求圣洁，圣洁<br>圣洁归我主"
+        },
+        {
+            "id": "slide4",
+            "title": "副歌 2",
+            "lyrics": "我尊崇你荣耀，荣耀<br>荣耀归我主"
+        }
+    ]
+}

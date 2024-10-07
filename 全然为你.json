@@ -1,0 +1,71 @@
+{
+    "title": "全然为你",
+    "background": "resources/bubble.webm",
+    "slides": [
+        {
+            "id": "slide1",
+            "title": "副歌 2",
+            "lyrics": "耶稣我心相信你，耶稣我心属于你<br>活着全都为了你，歌唱也为了你"
+        },
+        {
+            "id": "slide2",
+            "title": "副歌 3",
+            "lyrics": "全然为你"
+        },
+        {
+            "id": "slide3",
+            "title": "主歌",
+            "lyrics": "我将生命，交在你手中<br>献上一切，给你主"
+        },
+        {
+            "id": "slide4",
+            "title": "主歌 2",
+            "lyrics": "我的世界，全在你手里<br>我属于你，到永远"
+        },
+        {
+            "id": "slide5",
+            "title": "副歌 2",
+            "lyrics": "耶稣我心相信你，耶稣我心属于你<br>活着全都为了你，歌唱也为了你"
+        },
+        {
+            "id": "slide6",
+            "title": "副歌 3",
+            "lyrics": "全然为你"
+        },
+        {
+            "id": "slide7",
+            "title": "主歌 3",
+            "lyrics": "与你同行，到天涯海角<br>不论悲喜，我信靠你"
+        },
+        {
+            "id": "slide8",
+            "title": "主歌 4",
+            "lyrics": "主我愿意，活出你旨意<br>活出你应许，到永远"
+        },
+        {
+            "id": "slide9",
+            "title": "副歌 2",
+            "lyrics": "耶稣我心相信你，耶稣我心属于你<br>活着全都为了你，歌唱也为了你"
+        },
+        {
+            "id": "slide10",
+            "title": "副歌 3",
+            "lyrics": "全然为你"
+        },
+        {
+            "id": "slide11",
+            "title": "桥",
+            "lyrics": "主我敬拜，主我敬拜你"
+        },
+        {
+            "id": "slide12",
+            "title": "副歌 2",
+            "lyrics": "耶稣我心相信你，耶稣我心属于你<br>活着全都为了你，歌唱也为了你"
+        },
+        {
+            "id": "slide13",
+            "title": "副歌 3",
+            "lyrics": "全然为你"
+        }
+    ]
+}

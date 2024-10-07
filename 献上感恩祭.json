@@ -1,0 +1,91 @@
+{
+    "title": "献上感恩祭",
+    "background": "resources/dimond.webm",
+    "slides": [
+        {
+            "id": "slide0",
+            "title": "标题",
+            "lyrics": "献上感恩祭"
+        },
+        {
+            "id": "slide1",
+            "title": "主歌",
+            "lyrics": "献上感恩祭，给我的神<br>他慈爱存到永远"
+        },
+        {
+            "id": "slide2",
+            "title": "主歌 2",
+            "lyrics": "他真美好，远超所求所想<br>他慈爱存到永远"
+        },
+        {
+            "id": "slide3",
+            "title": "主歌 3",
+            "lyrics": "歌颂，赞美<br>歌颂，赞美"
+        },
+        {
+            "id": "slide4",
+            "title": "主歌 4",
+            "lyrics": "他全能的手，满有权柄<br>他慈爱存到永远"
+        },
+        {
+            "id": "slide5",
+            "title": "主歌 5",
+            "lyrics": "他已赐下，复活的新生命<br>他慈爱存到永远"
+        },
+        {
+            "id": "slide6",
+            "title": "主歌 6",
+            "lyrics": "歌颂，赞美<br>歌颂，赞美"
+        },
+        {
+            "id": "slide7",
+            "title": "副歌",
+            "lyrics": "他信实直到永远，他能力不改变<br>他同在直到永远，到永远"
+        },
+        {
+            "id": "slide8",
+            "title": "主歌 7",
+            "lyrics": "到永远，到永远"
+        },
+        {
+            "id": "slide9",
+            "title": "主歌 7",
+            "lyrics": "从日出之地，到日落处<br>他慈爱存到永远"
+        },
+        {
+            "id": "slide10",
+            "title": "主歌 8",
+            "lyrics": "因他恩典，我们努力向前<br>他慈爱存到永远"
+        },
+        {
+            "id": "slide11",
+            "title": "主歌 9",
+            "lyrics": "歌颂，赞美<br>歌颂，赞美"
+        },
+        {
+            "id": "slide12",
+            "title": "副歌",
+            "lyrics": "他信实直到永远，他能力不改变<br>他同在直到永远，到永远"
+        },
+        {
+            "id": "slide13",
+            "title": "主歌 7",
+            "lyrics": "到永远，到永远"
+        },
+        {
+            "id": "slide14",
+            "title": "主歌 9",
+            "lyrics": "歌颂，赞美<br>歌颂，赞美"
+        },
+        {
+            "id": "slide15",
+            "title": "副歌",
+            "lyrics": "他信实直到永远，他能力不改变<br>他同在直到永远，到永远"
+        },
+        {
+            "id": "slide16",
+            "title": "主歌 7",
+            "lyrics": "到永远，到永远"
+        }
+    ]
+}

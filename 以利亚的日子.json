@@ -1,0 +1,71 @@
+{
+    "title": "以利亚的日子",
+    "background": "resources/line10.webm",
+    "slides": [
+        {
+            "id": "slide0",
+            "title": "标题",
+            "lyrics": "以利亚的日子"
+        },
+        {
+            "id": "slide1",
+            "title": "主歌 1",
+            "lyrics": "这是以利亚的日子<br>齐宣扬我主的话语"
+        },
+        {
+            "id": "slide2",
+            "title": "主歌 2",
+            "lyrics": "哦！这是你仆人的日子<br>摩西，公义今正被显明"
+        },
+        {
+            "id": "slide3",
+            "title": "主歌 3",
+            "lyrics": "哦！虽然这苦难的日子<br>充满饥荒黑暗刀剑"
+        },
+        {
+            "id": "slide4",
+            "title": "主歌 4",
+            "lyrics": "而我们仍要在这旷野呼喊<br>预备耶和华的道路"
+        },
+        {
+            "id": "slide5",
+            "title": "副歌 1",
+            "lyrics": "看祂降临，驾著天上云<br>闪耀如烈日，号筒声吹响"
+        },
+        {
+            "id": "slide6",
+            "title": "副歌 2",
+            "lyrics": "扬起你声，这是恩典的禧年<br>救赎恩典从锡安山而来"
+        },
+        {
+            "id": "slide7",
+            "title": "主歌 5",
+            "lyrics": "这是以西结的日子<br>枯乾的骸骨正复活"
+        },
+        {
+            "id": "slide8",
+            "title": "主歌 6",
+            "lyrics": "哦！这是你仆人的日子<br>大卫，重新建造赞美殿"
+        },
+        {
+            "id": "slide9",
+            "title": "主歌 7",
+            "lyrics": "哦！这是大收割的日子<br>看哪！庄稼已发白"
+        },
+        {
+            "id": "slide10",
+            "title": "主歌 8",
+            "lyrics": "哦！我们是你葡萄园的工人<br>齐宣扬我主的话语"
+        },
+        {
+            "id": "slide11",
+            "title": "副歌 1",
+            "lyrics": "看祂降临，驾著天上云<br>闪耀如烈日，号筒声吹响"
+        },
+        {
+            "id": "slide12",
+            "title": "副歌 2",
+            "lyrics": "扬起你声，这是恩典的禧年<br>救赎恩典从锡安山而来"
+        }
+    ]
+}

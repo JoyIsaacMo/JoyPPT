@@ -1,0 +1,86 @@
+{
+    "title": "Happy Day",
+    "background": "resources/line11.webm",
+    "slides": [
+        {
+            "id": "slide0",
+            "title": "标题",
+            "lyrics": "Happy Day"
+        },
+        {
+            "id": "slide1",
+            "title": "主歌",
+            "lyrics": "在最伟大的那一天 <br>从死亡中，你拯救了我<br>来欢呼，耶稣祂活著"
+        },
+        {
+            "id": "slide2",
+            "title": "主歌 2",
+            "lyrics": "空十字架和空坟墓<br>胜过死亡，永活的生命<br>来欢呼，耶稣祂活著，祂活著"
+        },
+        {
+            "id": "slide3",
+            "title": "副歌",
+            "lyrics": "Oh happy day happy day<br>你洗净我的罪"
+        },
+        {
+            "id": "slide4",
+            "title": "副歌 2",
+            "lyrics": "Oh happy day happy day<br>生命完全改变"
+        },
+        {
+            "id": "slide5",
+            "title": "副歌 3",
+            "lyrics": "永远不再一样"
+        },
+        {
+            "id": "slide6",
+            "title": "主歌 3",
+            "lyrics": "当我站在你面前<br>我终于，完全得自由<br>我属你，耶稣你属我"
+        },
+        {
+            "id": "slide7",
+            "title": "主歌 4",
+            "lyrics": "止不住，平安喜乐<br>在世上，痛苦将过去<br>来欢呼，耶稣祂活著，祂活著"
+        },
+        {
+            "id": "slide8",
+            "title": "副歌",
+            "lyrics": "Oh happy day happy day<br>你洗净我的罪"
+        },
+        {
+            "id": "slide9",
+            "title": "副歌 2",
+            "lyrics": "Oh happy day happy day<br>生命完全改变"
+        },
+        {
+            "id": "slide10",
+            "title": "副歌 3",
+            "lyrics": "永远不再一样"
+        },
+        {
+            "id": "slide11",
+            "title": "桥",
+            "lyrics": "喔，何等奇妙恩典<br>何等荣耀作为<br>主你拯救我"
+        },
+        {
+            "id": "slide12",
+            "title": "桥 2",
+            "lyrics": "喔，何等奇妙恩典<br>何等荣耀圣名<br>耶稣"
+        },
+        {
+            "id": "slide13",
+            "title": "副歌",
+            "lyrics": "Oh happy day happy day<br>你洗净我的罪"
+        },
+        {
+            "id": "slide14",
+            "title": "副歌 2",
+            "lyrics": "Oh happy day happy day<br>生命完全改变"
+        },
+        {
+            "id": "slide15",
+            "title": "副歌 3",
+            "lyrics": "永远不再一样"
+        }
+    ]
+}

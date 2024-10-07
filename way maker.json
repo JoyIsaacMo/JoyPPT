@@ -1,0 +1,61 @@
+{
+    "title": "way maker",
+    "background": "resources/moving.webm",
+    "slides": [
+        {
+            "id": "slide0",
+            "title": "标题",
+            "lyrics": "Way Maker"
+        },
+        {
+            "id": "slide1",
+            "title": "主歌 1",
+            "lyrics": "You are here, moving in our midst<br>I worship You, I worship You"
+        },
+        {
+            "id": "slide2",
+            "title": "主歌 2",
+            "lyrics": "You are here, working in this place<br>I worship You, I worship You"
+        },
+        {
+            "id": "slide3",
+            "title": "副歌",
+            "lyrics": "You are Way maker, miracle worker<br>Promise keeper, light in the darkness<br>My God, that is who You are"
+        },
+        {
+            "id": "slide4",
+            "title": "副歌 2",
+            "lyrics": "You are here, touching every heart<br>I worship You, I worship You"
+        },
+        {
+            "id": "slide5",
+            "title": "主歌 3",
+            "lyrics": "You are here, healing every life<br>I worship You, I worship You"
+        },
+        {
+            "id": "slide6",
+            "title": "主歌 4",
+            "lyrics": "You are Way maker, miracle worker<br>Promise keeper, light in the darkness<br>My God, that is who You are"
+        },
+        {
+            "id": "slide7",
+            "title": "桥",
+            "lyrics": "That is who You are<br>(That is who You are)"
+        },
+        {
+            "id": "slide8",
+            "title": "桥 2",
+            "lyrics": "Even when I don't see it<br>You're working"
+        },
+        {
+            "id": "slide9",
+            "title": "桥 3",
+            "lyrics": "You never stop<br>You never stop working"
+        },
+        {
+            "id": "slide10",
+            "title": "副歌",
+            "lyrics": "You are Way maker, miracle worker<br>Promise keeper, light in the darkness<br>My God, that is who You are"
+        }
+    ]
+}

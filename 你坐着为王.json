@@ -1,0 +1,41 @@
+{
+    "title": "你坐着为王",
+    "background": "resources/gold1.webm",
+    "slides": [
+        {
+            "id": "slide0",
+            "title": "标题",
+            "lyrics": "你坐着为王"
+        },
+        {
+            "id": "slide1",
+            "title": "副歌",
+            "lyrics": "你坐着为王，到永永远远<br>虽洪水翻腾，我坚定仰望你"
+        },
+        {
+            "id": "slide2",
+            "title": "副歌 2",
+            "lyrics": "你坐着为王，垂听我呼求<br>使我灵苏醒，有复活的生命"
+        },
+        {
+            "id": "slide3",
+            "title": "主歌",
+            "lyrics": "主耶和华，满有怜悯和恩典<br>我投靠，在你翅膀荫下"
+        },
+        {
+            "id": "slide4",
+            "title": "主歌 2",
+            "lyrics": "当我回转，一宿虽然有哭泣<br>早晨，必欢呼喜乐"
+        },
+        {
+            "id": "slide5",
+            "title": "副歌",
+            "lyrics": "你坐着为王，到永永远远<br>虽洪水翻腾，我坚定仰望你"
+        },
+        {
+            "id": "slide6",
+            "title": "副歌 2",
+            "lyrics": "你坐着为王，垂听我呼求<br>使我灵苏醒，有复活的生命"
+        }
+    ]
+}

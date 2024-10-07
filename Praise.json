@@ -1,0 +1,76 @@
+{
+    "title": "赞美 Praise",
+    "background": "resources/Harvest.webm",
+    "slides": [
+        {
+            "id": "slide1",
+            "title": "前奏",
+            "lyrics": "Let everything, that has breathe<br>Praise the Lord, Praise the Lord"
+        },
+        {
+            "id": "slide2",
+            "title": "主歌",
+            "lyrics": "我在谷底赞美，在山顶赞美<br>在确信中赞美，怀疑中仍赞美"
+        },
+        {
+            "id": "slide3",
+            "title": "主歌 2",
+            "lyrics": "就算孤身奋战，包围中我赞美<br>赞美如同大水，冲破所有仇敌"
+        },
+        {
+            "id": "slide4",
+            "title": "副歌",
+            "lyrics": "只要仍有呼吸，我就要大声唱<br>Praise the Lord, Oh my Soul"
+        },
+        {
+            "id": "slide5",
+            "title": "副歌 2",
+            "lyrics": "Praise the Lord, Oh my Soul<br>Praise the Lord, Oh my Soul"
+        },
+        {
+            "id": "slide6",
+            "title": "主歌 3",
+            "lyrics": "有感觉时赞美，没感觉也赞美<br>因为我知道，你仍掌权一切"
+        },
+        {
+            "id": "slide7",
+            "title": "主歌 4",
+            "lyrics": "赞美是我武器，不只是声音<br>赞美大声呼喊，耶利哥都倒塌"
+        },
+        {
+            "id": "slide8",
+            "title": "副歌",
+            "lyrics": "只要仍有呼吸，我就要大声唱<br>Praise the Lord, Oh my Soul"
+        },
+        {
+            "id": "slide9",
+            "title": "副歌 2",
+            "lyrics": "Praise the Lord, Oh my Soul<br>Praise the Lord, Oh my Soul"
+        },
+        {
+            "id": "slide10",
+            "title": "副歌 3",
+            "lyrics": "我无法沉默，因主你活着<br>不能隐藏在心中"
+        },
+        {
+            "id": "slide11",
+            "title": "桥",
+            "lyrics": "赞美你掌权，统管万有<br>赞美你复活，已胜过死亡"
+        },
+        {
+            "id": "slide12",
+            "title": "桥 2",
+            "lyrics": "赞美你信实，何等真实<br>赞美你超越，这世上所有"
+        },
+        {
+            "id": "slide13",
+            "title": "副歌 2",
+            "lyrics": "Praise the Lord, Oh my Soul<br>Praise the Lord, Oh my Soul"
+        },
+        {
+            "id": "slide14",
+            "title": "前奏",
+            "lyrics": "Let everything, that has breathe<br>Praise the Lord, Praise the Lord"
+        }
+    ]
+}

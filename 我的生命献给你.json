@@ -1,0 +1,41 @@
+{
+    "title": "我的生命献给你",
+    "background": "resources/light.webm",
+    "slides": [
+        {
+            "id": "slide0",
+            "title": "标题",
+            "lyrics": "我的生命献给你"
+        },
+        {
+            "id": "slide1",
+            "title": "主歌 1",
+            "lyrics": "献上生命，给最爱的耶稣<br>完全顺服，完全降服"
+        },
+        {
+            "id": "slide2",
+            "title": "主歌 2",
+            "lyrics": "因祢恩典，使我得以事奉祢<br>祢的选召没有怀疑"
+        },
+        {
+            "id": "slide3",
+            "title": "副歌",
+            "lyrics": "我的生命献给祢，背起十架跟随祢<br>愿祢的荣耀，彰显在我生命"
+        },
+        {
+            "id": "slide4",
+            "title": "副歌 2",
+            "lyrics": "我的心不要忘记，祢如何为我舍命<br>耶稣我爱祢，喜乐地跟随祢"
+        },
+        {
+            "id": "slide5",
+            "title": "桥",
+            "lyrics": "赐给我属于祢的梦想<br>带下祢国度如在天上"
+        },
+        {
+            "id": "slide6",
+            "title": "桥 2",
+            "lyrics": "赐给我奔跑不倦的力量<br>如鹰展翅上腾翱翔"
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "title": "你的孩子还好吗",
+    "background": "resources/diamond3.webm",
+    "slides": [
+        {
+            "id": "slide0",
+            "title": "标题",
+            "lyrics": "你的孩子还好吗"
+        },
+        {
+            "id": "slide1",
+            "title": "幻灯片 1",
+            "lyrics": "你的孩子平安吗<br>你的孩子喜乐吗"
+        },
+        {
+            "id": "slide2",
+            "title": "幻灯片 2",
+            "lyrics": "在这网络的时代里<br>你能满足他/她的需求吗?"
+        },
+        {
+            "id": "slide3",
+            "title": "幻灯片 3",
+            "lyrics": "你的孩子孤单吗<br>脸上还有笑容吗"
+        },
+        {
+            "id": "slide4",
+            "title": "幻灯片 4",
+            "lyrics": "在充满霸凌的环境中<br>他们该如何面对呢"
+        },
+        {
+            "id": "slide5",
+            "title": "幻灯片 5",
+            "lyrics": "世界太败坏，魔鬼处处欺骗<br>唯有主耶稣的爱，永远不改变"
+        },
+        {
+            "id": "slide6",
+            "title": "幻灯片 6",
+            "lyrics": "祂就在门前，柔声的呼唤<br>呼唤祂的小羊，回到祂面前"
+        }
+    ]
+}

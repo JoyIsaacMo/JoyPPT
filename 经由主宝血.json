@@ -1,0 +1,26 @@
+{
+    "title": "经由主宝血",
+    "background": "resources/circle3.webm",
+    "slides": [
+        {
+            "id": "slide1",
+            "title": "主歌 1",
+            "lyrics": "经由主宝血，来到父面前 <br>经由主宝血，来到父面前"
+        },
+        {
+            "id": "slide2",
+            "title": "主歌 2",
+            "lyrics": "经由主宝血，来到主面前<br>一步一步更亲近 "
+        },
+        {
+            "id": "slide3",
+            "title": "副歌",
+            "lyrics": "尊贵的，主宝血将<br>我灵魂，再一次更新"
+        },
+        {
+            "id": "slide4",
+            "title": "副歌 2",
+            "lyrics": "尊贵的，主宝血将 <br>我灵魂，再一次更新"
+        }
+    ]
+}
