@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Song Viewer</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div id="videos-container"></div>
+    <div id="content"></div>
+
+    <script>
+        let currentSlideIndex = 0;
+        let slides = [];
+        let videoElements = {};
+        let currentVideoElement = null;
+        const transitionDuration = 300; // Transition duration in milliseconds
+        let loadedTracks = []; // To store loaded tracks from JSON files
+        let currentTrackIndex = 0; // To keep track of the current track index
+        let socket;
+        let currentSongListFile = null; // To store the current song list file
+        let isLoadingSongs = false; // Loading state for songs
+        let isTransitioning = false; // Transition state for slides
+
+        document.addEventListener('DOMContentLoaded', () => {
+            initializeWebSocket();
+            loadSongLists(); // 加载歌曲列表
+        });
+
+        function initializeWebSocket() {
+            socket = new WebSocket('ws://localhost:8080');
+
+            socket.onopen = () => {
+                console.log('WebSocket connection established');
+            };
+
+            socket.onmessage = (event) => {
+                const data = JSON.parse(event.data);
+                const newState = data.state;
+                if (data.type === 'init' || data.type === 'update') {
+                    if (newState.currentSongListFile !== currentSongListFile) {
+                        currentSongListFile = newState.currentSongListFile;
+                        loadSongs(currentSongListFile);
+                    }
+                    if (newState.currentTrackIndex !== currentTrackIndex) {
+                        currentTrackIndex = newState.currentTrackIndex;
+                        loadTrack(loadedTracks[currentTrackIndex]);
+                    }
+                    if (newState.currentSlideIndex !== currentSlideIndex) {
+                        showSlide(newState.currentSlideIndex);
+                    }
+                }
+            };
+
+            socket.onclose = () => {
+                console.log('WebSocket connection closed');
+            };
+
+            socket.onerror = (error) => {
+                console.error('WebSocket error:', error);
+            };
+        }
+
+        // function handleNextSlide() {
+        //     if (isTransitioning) return;
+        //     currentSlideIndex = (currentSlideIndex + 1) % slides.length;
+        //     showSlide(currentSlideIndex);
+        // }
+
+        // function handlePreviousSlide() {
+        //     if (isTransitioning) return;
+        //     currentSlideIndex = (currentSlideIndex - 1 + slides.length) % slides.length;
+        //     showSlide(currentSlideIndex);
+        // }
+
+        function sendUpdate(state) {
+            if (socket && socket.readyState === WebSocket.OPEN) {
+                socket.send(JSON.stringify({ type: 'update', state }));
+            }
+        }
+
+        function loadSongLists() {
+            fetch('songlist.json')
+                .then(response => response.json())
+                .then(data => {
+                    // Load the first song list by default
+                    if (data.songlists.length > 0) {
+                        currentSongListFile = data.songlists[0].file; // 更新currentSongListFile
+                        loadSongs(data.songlists[0].file);
+                    }
+                })
+                .catch(error => console.error('Error loading song lists:', error));
+        }
+
+        function loadSongs(songsFile) {
+            if (isLoadingSongs) return;
+            isLoadingSongs = true;
+
+            fetch(songsFile)
+                .then(response => response.json())
+                .then(data => {
+                    // Load each song JSON file listed in the songsFile
+                    loadedTracks = []; // Clear previously loaded tracks
+                    let promises = data.songs.map(songFile => fetch(songFile).then(response => response.json()));
+
+                    Promise.all(promises).then(songDataArray => {
+                        songDataArray.forEach((songData, index) => {
+                            loadedTracks.push(songData);
+                        });
+
+                        if (loadedTracks.length > 0) {
+                            // Preserve current track and slide indices if possible
+                            currentTrackIndex = Math.min(currentTrackIndex, loadedTracks.length - 1);
+                            loadTrack(loadedTracks[currentTrackIndex]);
+                        }
+                        isLoadingSongs = false;
+                    }).catch(error => {
+                        console.error('Error loading song data:', error);
+                        isLoadingSongs = false;
+                    });
+                })
+                .catch(error => {
+                    console.error('Error loading songs:', error);
+                    isLoadingSongs = false;
+                });
+        }
+
+        function loadTrack(song) {
+            slides = [];
+            const contentDiv = document.getElementById('content');
+            const videosContainer = document.getElementById('videos-container');
+
+            // Stop and remove previous video elements
+            for (const videoKey in videoElements) {
+                if (videoElements[videoKey]) {
+                    videoElements[videoKey].pause(); // Stop the video
+                    videosContainer.removeChild(videoElements[videoKey]); // Remove from DOM
+                }
+            }
+
+            videoElements = {};
+            currentVideoElement = null;
+
+            song.slides.forEach((slide, index) => {
+                slides.push({
+                    ...slide,
+                    id: 'slide' + (slides.length + index + 1),
+                    background: song.background,
+                });
+
+                if (!videoElements[song.background]) {
+                    const video = document.createElement('video');
+                    video.src = song.background;
+                    video.className = 'background-video';
+                    video.autoplay = false;
+                    video.loop = true;
+                    video.muted = true;
+                    videoElements[song.background] = video;
+                    videosContainer.appendChild(video);
+                }
+            });
+
+            while (contentDiv.firstChild) {
+                contentDiv.removeChild(contentDiv.firstChild);
+            }
+
+            slides.forEach(slide => {
+                const slideDiv = document.createElement('div');
+                slideDiv.id = slide.id;
+                slideDiv.className = 'slide';
+                slideDiv.dataset.background = slide.background;
+
+                const title = document.createElement('h2');
+                title.className = 'title';
+                title.innerHTML = slide.title;
+
+                const lyricsContainer = document.createElement('div');
+                lyricsContainer.className = 'lyrics-container';
+
+                const lyrics = document.createElement('p');
+                lyrics.className = 'lyrics';
+                lyrics.innerHTML = slide.lyrics;
+
+                slideDiv.appendChild(title);
+                lyricsContainer.appendChild(lyrics);
+                slideDiv.appendChild(lyricsContainer);
+                contentDiv.appendChild(slideDiv);
+            });
+
+            currentSlideIndex = 0; // Reset slide index
+            showSlide(currentSlideIndex);
+            updateSlideNavigation();
+            sendUpdate({ currentSongListFile, currentTrackIndex, currentSlideIndex }); // Sync state after loading track
+        }
+
+        function showSlide(index) {
+            if (isTransitioning) return;
+            isTransitioning = true;
+
+            const allSlides = document.getElementsByClassName('slide');
+            const previousSlide = document.querySelector('.slide.active');
+            const nextSlide = allSlides[index];
+
+            if (previousSlide) {
+                previousSlide.classList.remove('active');
+                previousSlide.classList.add('fade-out');
+                previousSlide.addEventListener('transitionend', function onTransitionEnd() {
+                    previousSlide.classList.remove('fade-out');
+                    previousSlide.style.display = 'none';
+                    previousSlide.removeEventListener('transitionend', onTransitionEnd);
+                });
+            }
+
+            if (nextSlide) {
+                nextSlide.style.display = 'flex';
+                setTimeout(() => {
+                    nextSlide.classList.add('active');
+                }, 20); // Delay to ensure CSS changes are applied
+            }
+
+            const newBackground = nextSlide.dataset.background;
+            if (currentVideoElement) {
+                currentVideoElement.pause();
+                currentVideoElement.style.display = 'none';
+            }
+            currentVideoElement = videoElements[newBackground];
+            if (currentVideoElement) {
+                currentVideoElement.style.display = 'block';
+                currentVideoElement.play();
+            }
+
+            currentSlideIndex = index;
+            // sendUpdate({ currentSongListFile, currentTrackIndex, currentSlideIndex }); // Sync state after showing slide
+
+            setTimeout(() => {
+                isTransitioning = false;
+            }, transitionDuration);
+
+        }
+    </script>
+</body>
+
+</html>
